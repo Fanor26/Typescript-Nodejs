@@ -21,7 +21,7 @@ class App{
     private startModules() {
         console.log("Load Modules!!!");
         //code of the different project modules
-        this.app.use("/",(request,response) =>{
+        this.app.get("/",(request,response) =>{
             response.send("Hello this is my first server i'm a fan on Typescript");
         })
     }
