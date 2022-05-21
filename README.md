@@ -24,4 +24,6 @@
 🐻‍❄️ Visit me:
 ## Youtube: https://www.youtube.com/channel/UC44xHCSyXLkzcUuYHofDG8A/videos
 
+## 2-Setup Youtube: https://www.youtube.com/watch?v=dqnnmMgQMiY
+
 ## Linkendin: https://www.linkedin.com/in/fanor-choque-aguirre-a246b1132/
